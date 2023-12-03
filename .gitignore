@@ -1,0 +1,4 @@
+temp/ *.old *.backup
+temp/ *.backup 
+temp/ .DS_Stone
+temp/ Thumbs.ds
